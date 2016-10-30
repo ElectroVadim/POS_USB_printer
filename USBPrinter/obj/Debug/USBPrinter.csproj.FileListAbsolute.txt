@@ -1,0 +1,23 @@
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.exe.config
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.exe
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.pdb
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.csprojResolveAssemblyReference.cache
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.Form1.resources
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.Properties.Resources.resources
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.csproj.GenerateResource.Cache
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.exe
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.pdb
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\LibUsbDotNet.dll
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.exe.config
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.exe
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.pdb
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.exe
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\USBPrinter.pdb
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\bin\Debug\LibUsbDotNet.dll
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.csprojResolveAssemblyReference.cache
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.Form1.resources
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.Properties.Resources.resources
+D:\мои документы\Visual Studio 2013\Projects\USBPrinter\USBPrinter\obj\Debug\USBPrinter.csproj.GenerateResource.Cache
+C:\Users\Vadim\Desktop\Новая папка (2)\USBPrinter\USBPrinter\bin\Debug\USBPrinter.exe.config
+C:\Users\Vadim\Desktop\Новая папка (2)\USBPrinter\USBPrinter\obj\Debug\USBPrinter.exe
+C:\Users\Vadim\Desktop\Новая папка (2)\USBPrinter\USBPrinter\obj\Debug\USBPrinter.pdb
